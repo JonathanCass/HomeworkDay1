@@ -1,0 +1,27 @@
+* {
+	border-radius:10px;
+}
+#header {
+	background-color: #668284;
+	position: fixed;
+	width: 99.5%;
+	margin-left:-2px;
+}
+.container {
+	float;
+	width: 100%;
+	background-color: brown;
+	height: 100%;
+}
+.movies {
+	float:left;
+	margin-top: 100px;
+	background-color: green;
+	font-size: 20px;
+}
+.games {
+	float:left;
+	margin: 100px;
+	background-color: violet;
+	font-size: 20px;
+}
