@@ -3,13 +3,14 @@
 
 }
 body {
-	background-color:brown;
+	background-color:black;
 }
 #header {
 	background-color: #668284;
 	position: fixed;
 	width: 99.5%;
 	margin-left:-2px;
+	text-align: center;
 }
 #footer {
 	background-color: #668284;
